@@ -14,17 +14,17 @@ const ContactUsScreen = (props) => {
               <div className="col-sm-12 ">
                 <h4 className="contact-title-color">WhatsApp US</h4>
                 <p className="contact-us-details-color">
-                  Omkar Kolge :93222 03458
+                  Abc : 12345 67890
                   <br />
-                  Manish Jaiswal : 90985 80839
+                  Xyz : 09876 54321
                   <br />
                   <hr />
                 </p>
                 <h4 className="contact-title-color">Email US</h4>
                 <p className="contact-us-details-color">
-                  omkarkolgem@gmail.com
+                  abc@gmail.com
                   <br />
-                  mmjaiswal04@gmail.com
+                  xyz@gmail.com
                   <br />
                   <hr />
                 </p>
